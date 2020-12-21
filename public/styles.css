@@ -10,3 +10,8 @@ li {
 body {
   background-color: bisque;
 }
+
+.sqr-img {
+  max-height: 100px;
+  width: auto;
+}
