@@ -1,0 +1,12 @@
+.heading {
+  color: rgb(73, 190, 211);
+}
+
+ul,
+li {
+  color: green;
+}
+
+body {
+  background-color: bisque;
+}
