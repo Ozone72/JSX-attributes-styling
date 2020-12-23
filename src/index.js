@@ -9,9 +9,15 @@ ReactDOM.render(
       My Favorite Foods
     </h1>
     <ul>
-      <img src={image} alt="100x100" className="sqr-img" />
-      <img src={image} alt="100x100" className="sqr-img" />
-      <img src={image} alt="100x100" className="sqr-img" />
+      <li>
+        <img src={image} alt="100x100" className="sqr-img" />
+      </li>
+      <li>
+        <img src={image} alt="100x100" className="sqr-img" />
+      </li>
+      <li>
+        <img src={image} alt="100x100" className="sqr-img" />
+      </li>
     </ul>
   </div>,
   document.getElementById("root")

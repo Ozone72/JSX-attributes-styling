@@ -5,6 +5,7 @@
 ul,
 li {
   color: green;
+  list-style-type: none;
 }
 
 body {
